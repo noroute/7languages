@@ -1,2 +1,3 @@
-= Seven Languages in seven weeks =
-Assorted simplistic code I wrote reading the book.
+Seven Languages in seven weeks, by Bruce Tate
+=============================================
+Assorted simplistic code I wrote reading the book. Probably nothing fancy.
