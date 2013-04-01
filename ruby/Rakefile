@@ -2,4 +2,5 @@ task :default => [:test]
 
 task :test do
     ruby "hash_array_test.rb"
+    ruby "16numbers_test.rb"
 end
